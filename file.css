@@ -1,0 +1,10 @@
+.orange1 {
+	background-color: #CF6F17;
+}
+
+.box1 {
+  min-height: 50vh;
+  width: 53%;
+  display: inline-table;
+  margin: auto;
+}
