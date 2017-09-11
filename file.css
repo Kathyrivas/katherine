@@ -1,20 +1,23 @@
-<!DOCTYPE html> 
+.box1 {
+  min-height: 30vh;
+  width: 30%;
+  display: inline-table;
+  margin: auto;
+}
 
-<html lang="en">
-<head>
-<title>Typography and Color Options</title>
-			<meta name="viewport" content="width=device-width, initial-scale=1.0">
-			<link rel="stylesheet" href="file.css">
-</head>
 
-<body>
-  <center><h1 style="font-family:Verdana; color:#D6720F;font-size:60px"> Djembe </h1></center> 
-<div>
-  <div class="box1 orange1"><center><h2><font color="#684907"> katherine </font></h2></center></div>
-    <div class="box1 green"><center><h2><font color="#684907"> katherine </font></h2></center> </div>
-	<div class="box1 black"><center><h2><font color="#684907"> katherine </font></h2></center> </div>
-	<div class="box1 red"><center><h2><font color="#684907"> katherine </font></h2></center> </div>
-</div>
+.orange1 {
+	background-color: #E28200;
+}
 
-</body> 
-</html>
+.green  {
+	background-color: #024B00;
+}
+
+.black  {
+	background-color: #000000;
+}
+
+.red {
+	background-color: #901313;
+}
